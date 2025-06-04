@@ -1,0 +1,51 @@
+# Compiled binaries
+/p2p_chat
+/relay_server
+*.exe
+*.out
+*.o
+
+# Build directories
+build/
+cmake-build-*/
+bin/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+temp_*
+
+# Git files
+.git/
+
+# Editor backup files
+*.bak
+*.orig
+*~
+
+# Core dumps
+core
+core.*
+
+# Debug files
+*.dSYM/
+*.pdb
+
+# Generated files
+Makefile.bak
+cmake_install.cmake
+CMakeFiles/
+CMakeCache.txt

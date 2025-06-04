@@ -1,0 +1,24 @@
+Project Version History
+=======================
+
+Version 1.0.0 - June 04, 2025
+Date: 2025-06-04
+Time: 17:29:00
+- Initial Release
+
+Version 0.0.0 - Initial Release
+Date: 2025-01-04
+- Cross-platform P2P chat application (Linux, Windows, macOS)
+- Real-time messaging between peers
+- Terminal-based interface with commands
+- Direct peer-to-peer connections
+- Multiple simultaneous peer support
+- Message broadcasting to all connected peers
+- Build system with Make and CMake
+- macOS-specific fixes for socket permissions
+- Relay server for NAT traversal
+- International setup guide for Turkey-USA communication
+- Port forwarding and VPS relay options
+- Error handling with detailed messages
+- Thread-safe peer management
+- Socket reuse options for different platforms
